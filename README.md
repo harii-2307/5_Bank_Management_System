@@ -50,5 +50,9 @@ The system offers the following main functionalities:
 ### Contributing 
 Contributions are welcome! If you find any issues or have improvements to suggest, feel free to open an issue or create a pull request.
 
+## Contact
+
+If you have any questions or want to connect, you can reach me at [harizz2307@gmail.com](mailto:harizz2307@gmail.com) or find me on LinkedIn [Kuruba Haritha](https://www.linkedin.com/in/haritha-kuruba-a17503252/).
+
 
 
