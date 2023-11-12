@@ -36,13 +36,12 @@ The system offers the following main functionalities:
 - Account Details
 
 ## Sample Output Screenshots 
-![s1](https://github.com/harii-2307/Bank_Management_System/assets/109644553/d5723836-72a7-4d11-afe1-479205753343) 
-![s2](https://github.com/harii-2307/Bank_Management_System/assets/109644553/0f22094a-3c95-4fda-94c5-ce14a0d5bf2f) 
-![s3](https://github.com/harii-2307/Bank_Management_System/assets/109644553/bc88c125-2d53-41e8-a86f-71916899dce4) 
-![s4](https://github.com/harii-2307/Bank_Management_System/assets/109644553/47a3fb3c-21a9-4304-9ae6-2112e4febaf4) 
-![s5](https://github.com/harii-2307/Bank_Management_System/assets/109644553/d0dcd6b0-da3a-49eb-ba7e-3d6d960dbffc) 
-<img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/d5723836-72a7-4d11-afe1-479205753343" alt="s1" width="500"/>
 
+<img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/d5723836-72a7-4d11-afe1-479205753343" alt="s1" width="400"/>
+<img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/0f22094a-3c95-4fda-94c5-ce14a0d5bf2f" alt="s1" width="400"/>
+<img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/bc88c125-2d53-41e8-a86f-71916899dce4" alt="s1" width="400"/>
+<img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/47a3fb3c-21a9-4304-9ae6-2112e4febaf4" alt="s1" width="400"/>
+<img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/d0dcd6b0-da3a-49eb-ba7e-3d6d960dbffc" alt="s1" width="400"/>
 
 ### Contributing 
 Contributions are welcome! If you find any issues or have improvements to suggest, feel free to open an issue or create a pull request.
