@@ -36,15 +36,14 @@ The system offers the following main functionalities:
 - Account Details
 
 ## Sample Output Screenshots 
-### Main Menu
 <img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/d5723836-72a7-4d11-afe1-479205753343" alt="main_menu" width="500"/>
-### New User Registration
+
 <img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/0f22094a-3c95-4fda-94c5-ce14a0d5bf2f" alt="new_user" width="500"/> 
-### Deposition 
+
 <img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/bc88c125-2d53-41e8-a86f-71916899dce4" alt="deposition" width="500"/>
-### Transfer Option
+
 <img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/47a3fb3c-21a9-4304-9ae6-2112e4febaf4" alt="transfer" width="500"/>
-### User Records
+
 <img src="https://github.com/harii-2307/Bank_Management_System/assets/109644553/d0dcd6b0-da3a-49eb-ba7e-3d6d960dbffc" alt="user_records" width="500"/>
 
 ### Contributing 
