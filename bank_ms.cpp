@@ -393,7 +393,7 @@ void bank::transfer() {
     }
 }
 
-	void bank::payment() {
+void bank::payment() {
     system("cls");
     fstream file, file1;
     int found = 0;
